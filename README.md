@@ -36,7 +36,7 @@ progress through the lab.
 3.  Within `CoordinatesButton`, render a button. On click of the button,
     create an array with two elements: the X and Y coordinates of the mouse. Find
     these using the event data.
-
+    ZSWW    111111111c
 4.  Pass this event data in as the argument for the `onReceiveCoordinates` prop.
 
 5.  If successful, the current x,y position of your mouse should be logged.
